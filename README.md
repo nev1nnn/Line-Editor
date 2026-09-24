@@ -11,3 +11,4 @@ How to Compile:
 Make sure GCC is installed and added to the system PATH.
 Open the terminal in the project folder and run:
 gcc Line Editor.c -o Line Editor.exe
+.\Line Editor.exe
